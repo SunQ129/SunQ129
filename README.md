@@ -69,7 +69,7 @@ I’m currently working at eCloudvalley as a Cybersecurity Solution Architect, f
 ## 📫 Contact Me
 
 - 📧 Email: [ycsun129@gmail.com]
-- 🌐 LinkedIn: [www.linkedin.com/in/jeremy-sun-0129sun] *(可填寫連結)*
+- 🌐 LinkedIn: [www.linkedin.com/in/jeremy-sun-0129sun]
 - 📝 Blog (Coming Soon): GitHub Pages
 
 ---
