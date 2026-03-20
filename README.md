@@ -46,9 +46,8 @@ I specialize in security architecture, with extensive hands-on experience across
 ## 🧾 Certifications & Education
 
 **🎓 Education**
-- **National Central University** – M.S. in Information Management *(Incoming, 2025)*
-  - *Focus: Cloud Security, Risk Management, and Zero Trust Architecture*
-- **National Taipei University** – B.B.A. *(2015 – 2019)*
+- 🎓 **National Taipei University** – B.B.A., 2015 – 2019
+- 🎓 **National Central University** – M.S. in Information Management 2025-2027
 
 **🎖️ Certifications Summary**
 - **ISC2:** CISSP | CC
