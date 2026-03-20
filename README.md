@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Cloud+Security+Architect;Zero+Trust+Specialist;DevSecOps+Advocate;Wuson+Volunteer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Security+Architect;Zero+Trust+Specialist;DevSecOps+Advocate;Wuson+Volunteer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <br/>
 
 Hi there! 👋 I'm **Jeremy Sun (孫岳均)**, a Cybersecurity Solution Architect from Taiwan 🇹🇼.<br>
-I specialize in cloud-native security architecture, with extensive hands-on experience across CNAPP, Zero Trust, CI/CD security, and multi-layered network defense. <br>
+I specialize in security architecture, with extensive hands-on experience across CNAPP, Zero Trust, CI/CD security, and multi-layered network defense. <br>
 *“Secure by design. Built for resilience.”* ☁️🛡️
 
 ---
@@ -51,6 +51,7 @@ I specialize in cloud-native security architecture, with extensive hands-on expe
 - **National Taipei University** – B.B.A. *(2015 – 2019)*
 
 **🎖️ Certifications Summary**
+- **ISC2:** CISSP | CC
 - **Public Cloud:** AWS SAA | GCP PCA | Azure AZ-900
 - **Check Point:** CCSA, CCSE, CCME, CCTE, CCSM-E, CCES, CCCS
 - **Zscaler & Infoblox:** ZCSE, ZDTA | CDCA, CDAT, DSP, DDIP, B1TD
