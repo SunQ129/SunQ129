@@ -36,19 +36,21 @@ I specialize in security architecture, with extensive hands-on experience across
 
 ## 🚀 Tech Stack / 技能樹
 
-### ☁️ Cloud Platforms & DevOps
+### 🛡️ Security Architecture & Modern Solutions
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,github,gitlab,linux,windows&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/Check_Point-E51B24?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Check Point"/>
+  <img src="https://img.shields.io/badge/Zscaler-0033A0?style=for-the-badge&logo=zscaler&logoColor=white" alt="Zscaler"/>
+  <img src="https://img.shields.io/badge/Infoblox-0047BB?style=for-the-badge&logo=infoblox&logoColor=white" alt="Infoblox"/>
+  <img src="https://img.shields.io/badge/Zero_Trust-10B981?style=for-the-badge&logo=shield&logoColor=white" alt="Zero Trust"/>
+  <img src="https://img.shields.io/badge/DevSecOps-4B32C3?style=for-the-badge&logo=owasp&logoColor=white" alt="DevSecOps"/>
 </p>
 
-### 🛡️ Network & Cloud Security
-![Check Point](https://img.shields.io/badge/Check_Point-E51B24?style=for-the-badge&logo=checkpoint&logoColor=white)
-![Zscaler](https://img.shields.io/badge/Zscaler-0033A0?style=for-the-badge&logo=zscaler&logoColor=white)
-![Infoblox](https://img.shields.io/badge/Infoblox-2C82C9?style=for-the-badge&logo=infoblox&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-4B32C3?style=for-the-badge&logo=owasp&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust_Architecture-10B981?style=for-the-badge&logo=shield&logoColor=white)
+### ☁️ Secure Cloud & Hybrid Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,windows,github,gitlab&theme=dark" />
+  </a>
+</p>
 
 ---
 
