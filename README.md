@@ -20,7 +20,7 @@ I specialize in security architecture, with extensive hands-on experience across
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=SunQ129&cc=1a1b26&tc=38BDF8&ic=38BDF8&bc=00000000" alt="Jeremy's GitHub Stats" height="192px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunQ129&theme=tokyonight" alt="Top Languages" height="192px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunQ129&theme=tokyonight" alt="Profile Details" height="192px"/>
 </div>
 
 ---
