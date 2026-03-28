@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <a href="https://sunq129.github.io/Resume/" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Interactive_Resume-0A0A0F?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1F2937&color=38BDF8" alt="Interactive Resume"/>
+  <a href="https://sunqsec.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_SunQSec.com-0A0A0F?style=for-the-badge&logo=shield&logoColor=38BDF8&labelColor=1F2937&color=38BDF8" alt="SunQSec Homepage"/>
   </a>
 </div>
 
