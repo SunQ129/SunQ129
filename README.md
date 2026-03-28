@@ -71,14 +71,11 @@ I specialize in security architecture, with extensive hands-on experience across
 
 ## 📫 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="mailto:ycsun129@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/jeremy-sun-0129sun">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://hackmd.io/@ysun129">
-    <img src="https://img.shields.io/badge/HackMD_Notes-333333?style=for-the-badge&logo=markdown&logoColor=white" alt="HackMD" />
   </a>
 </div>
